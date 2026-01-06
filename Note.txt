@@ -1,4 +1,4 @@
-xploratory Data Analysis on Student Performance Dataset
+Exploratory Data Analysis on Student Performance Dataset
 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset obtained from Kaggle to understand patterns, relationships, and insights within the data. The objective is to apply data analysis techniques using Python and derive meaningful conclusions through visualization and statistical summaries.
 Dataset
